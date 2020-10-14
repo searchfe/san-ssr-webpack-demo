@@ -5,6 +5,8 @@
     </div>
 </template>
 <script>
+import {Component} from 'san'
+class x extends Component {}
     export default {
         initData() {
             return {
